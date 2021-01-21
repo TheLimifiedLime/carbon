@@ -205,20 +205,9 @@ Carbon is a project by:
 
 Pull requests are welcome! Please see our [contributing guidelines](/.github/CONTRIBUTING.md) for more details.
 
-### Sponsors
+### Sponsors & Backers
 
-Does your company use Carbon? Consider sponsoring the project to fund new features, bug fixes, and more.
-
-<a href="https://fossa.com" style="margin-right: 2rem;" target="_blank"><img width="180px" src="https://assets-global.website-files.com/5f4d9ea2592c16056cb0f7a5/5f4d9ea2592c16d9a2b0f7da_logo-FOSSA-night-blue.svg" /></a>
-<a href="https://opencollective.com/carbon-app/sponsors/0/website" target="_blank"><img src="https://opencollective.com/carbon-app/sponsors/0/avatar"></a>
-<a href="https://opencollective.com/carbon-app/sponsors/1/website" target="_blank"><img src="https://opencollective.com/carbon-app/sponsors/1/avatar"></a>
-<a href="https://opencollective.com/carbon-app/sponsors/2/website" target="_blank"><img src="https://opencollective.com/carbon-app/sponsors/2/avatar"></a>
-<a href="https://opencollective.com/carbon-app/sponsors/3/website" target="_blank"><img src="https://opencollective.com/carbon-app/sponsors/3/avatar"></a>
-<a href="https://opencollective.com/carbon-app/sponsors/4/website" target="_blank"><img src="https://opencollective.com/carbon-app/sponsors/4/avatar"></a>
-
-### Backers
-
-Love using Carbon? Consider supporting the project to fund new features and improvements
+<a href="https://fossa.com" style="margin-right: 2rem;" target="_blank"><img width="160px" src="https://assets-global.website-files.com/5f4d9ea2592c16056cb0f7a5/5f4d9ea2592c16d9a2b0f7da_logo-FOSSA-night-blue.svg" /></a>
 
 <a href="https://opencollective.com/carbon-app/backers/0/website" target="_blank"><img src="https://opencollective.com/carbon-app/backers/0/avatar"></a>
 <a href="https://opencollective.com/carbon-app/backers/1/website" target="_blank"><img src="https://opencollective.com/carbon-app/backers/1/avatar"></a>
@@ -237,11 +226,7 @@ Love using Carbon? Consider supporting the project to fund new features and impr
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fcarbon-app%2Fcarbon&project-name=carbon&repo-name=carbon)
 
-### Contributors
-
-![Contributors image](https://opencollective.com/carbon-app/contributors.svg?width=1024)
-
-#### All Contributors
+### All Contributors
 
 Thanks goes out to all these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
