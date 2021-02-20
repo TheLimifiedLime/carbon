@@ -17,7 +17,8 @@
     "docs/README.se.md",
     "docs/README.ta.md",
     "docs/README.tr.md",
-    "docs/README.tw.md"
+    "docs/README.tw.md",
+    "docs/README.in.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -792,6 +793,25 @@
       "profile": "http://georgemccarron.com/",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "artmxra7",
+      "name": "Erwin Rahayu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23070604?v=4",
+      "profile": "https://github.com/artmxra7",
+      "contributions": [
+        "translation",
+        "doc"
+      ]
+    },
+    {
+      "login": "mlucap",
+      "name": "Luca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36577976?v=4",
+      "profile": "https://github.com/mlucap",
+      "contributions": [
+        "code"
       ]
     }
   ],
