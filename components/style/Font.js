@@ -46,9 +46,9 @@ export default function Font() {
         @font-face {
           font-family: 'Fira Code';
           font-display: swap;
-          src: url('//cdn.rawgit.com/tonsky/FiraCode/1.204/distr/woff2/FiraCode-Regular.woff2')
+          src: url('//cdn.jsdelivr.net/npm/firacode@latest/distr/woff2/FiraCode-Regular.woff2')
               format('woff2'),
-            url('//cdn.rawgit.com/tonsky/FiraCode/1.204/distr/woff/FiraCode-Regular.woff')
+            url('//cdn.jsdelivr.net/npm/firacode@latest/distr/woff/FiraCode-Regular.woff')
               format('woff');
         }
 
@@ -66,8 +66,8 @@ export default function Font() {
           font-family: 'IBM Plex Mono';
           font-display: swap;
           font-weight: 500;
-          src: local('IBM Plex Mono Medium Italic'), local('IBMPlexMono-MediumItalic'),
-            url(https://fonts.gstatic.com/s/ibmplexmono/v2/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1gMoQPttozw.woff2)
+          src: local('IBM Plex Mono Regular'), local('IBMPlexMono-Regular'),
+            url(//fonts.gstatic.com/s/ibmplexmono/v6/-F63fjptAgt5VM-kVkqdyU8n1i8q131nj-o.woff2)
               format('woff2');
         }
 

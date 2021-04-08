@@ -8,7 +8,10 @@
     "docs/README.de.md",
     "docs/README.es.md",
     "docs/README.fr.md",
+    "docs/README.he.md",
     "docs/README.hi.md",
+    "docs/README.in.md",
+    "docs/README.it.md",
     "docs/README.ja.md",
     "docs/README.kr.md",
     "docs/README.ml.md",
@@ -18,7 +21,7 @@
     "docs/README.ta.md",
     "docs/README.tr.md",
     "docs/README.tw.md",
-    "docs/README.in.md"
+    "docs/README.ua.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -812,6 +815,42 @@
       "profile": "https://github.com/mlucap",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "adghayes",
+      "name": "Andrew Hayes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37960853?v=4",
+      "profile": "https://github.com/adghayes",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "heybereket",
+      "name": "Bereket Semagn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68391329?v=4",
+      "profile": "https://github.com/heybereket",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "LorenzoLancia",
+      "name": "Lorenzo Lancia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44911690?v=4",
+      "profile": "https://github.com/LorenzoLancia",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "Guy-Adler",
+      "name": "Guy Adler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44903310?v=4",
+      "profile": "https://github.com/Guy-Adler",
+      "contributions": [
+        "translation"
       ]
     }
   ],

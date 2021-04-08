@@ -39,6 +39,8 @@
       <td>
         <a href="/docs/README.br.pt.md">Português</a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="/docs/README.ml.md">മലയാളം</a>
       </td>
@@ -51,11 +53,11 @@
       <td>
         <a href="/docs/README.ta.md">தமிழ்</a>
       </td>
-    </tr>
-    <tr>      
       <td>
         <a href="/docs/README.fr.md">Français</a>
       </td>
+    </tr>
+    <tr>      
       <td>
         <a href="/docs/README.ja.md">日本語</a>
       </td>
@@ -65,16 +67,27 @@
       <td>
         <a href="/docs/README.pl.md">Polski</a>
       </td>
-      <td align="center">
+      <td>
         <a href="/docs/README.nl.md">Nederlands</a>
       </td>
       <td>
         <a href="/docs/README.tw.md">臺灣</a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="/docs/README.in.md">Indonesia</a>
       </td>
-       <td>
+      <td>
+        <a href="/docs/README.ua.md">Українська</a>
+      </td>
+      <td>
+        <a href="/docs/README.it.md">Italiano</a>
+      </td>
+      <td>
+        <a href="/docs/README.he.md" dir="rtl">עברית</a>
+      </td>
+      <td>
         <a href="https://github.com/carbon-app/carbon/new/main/docs?filename=docs/README.%3Cnew%20language%3E.md">Add +</a>
       </td>
     </tr>
@@ -333,6 +346,10 @@ Thanks goes out to all these wonderful people ([emoji key](https://github.com/ke
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/mlucap"><img src="https://avatars.githubusercontent.com/u/36577976?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Luca</b></sub></a><br /><a href="https://github.com/carbon-app/carbon/commits?author=mlucap" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/adghayes"><img src="https://avatars.githubusercontent.com/u/37960853?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andrew Hayes</b></sub></a><br /><a href="https://github.com/carbon-app/carbon/commits?author=adghayes" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/heybereket"><img src="https://avatars.githubusercontent.com/u/68391329?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bereket Semagn</b></sub></a><br /><a href="https://github.com/carbon-app/carbon/commits?author=heybereket" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/LorenzoLancia"><img src="https://avatars.githubusercontent.com/u/44911690?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lorenzo Lancia</b></sub></a><br /><a href="#translation-LorenzoLancia" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Guy-Adler"><img src="https://avatars.githubusercontent.com/u/44903310?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Guy Adler</b></sub></a><br /><a href="#translation-Guy-Adler" title="Translation">🌍</a></td>
   </tr>
 </table>
 
